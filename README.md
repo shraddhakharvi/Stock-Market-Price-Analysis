@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/13070ae2-d131-423e-a72c-fbcba8350a82)
+## Overview of Power BI Dashboard
 # Stock-Market-Price-Analysis
 # 📂 Project Overview
 ## This project scrapes, processes, and analyzes historical stock market data to track trends, volatility, and performance over time. The data is then visualized using Power BI for better insights.
