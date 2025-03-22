@@ -45,6 +45,9 @@ python AAPL_stock_data.py
 #### Clean data in Power Query
 #### Create visualizations as described in the project workflow
 
+## Check for project presentation 
+https://youtu.be/OEht1aVRYVU
+
 # 📌 Future Enhancements
 #### Automate daily stock data updates
 #### Add technical indicators (e.g., Moving Averages, RSI)
